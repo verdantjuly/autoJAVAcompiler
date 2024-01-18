@@ -2,8 +2,8 @@ package src;
 
 public class Calculator {
     public static void main(String[] args) {
-        int num1 = 4;
-        int num2 = 3;
+        int num1 = 7;
+        int num2 = 2;
         int total;
         total = num1 - num2;
         System.out.println(total);
