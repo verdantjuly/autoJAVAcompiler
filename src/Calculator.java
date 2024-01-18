@@ -1,11 +1,13 @@
 package src;
 
 public class Calculator {
-
-    public int subtract(int num1, int num2) {
+    public static void main(String[] args) {
+        int num1 = 4;
+        int num2 = 3;
         int total;
         total = num1 - num2;
-        return total;
+        System.out.println(total);
+
     }
 
 }
